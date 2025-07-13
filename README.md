@@ -1,10 +1,10 @@
 ## Hi, I am Irene 💡
 # 💫 About Me:
 📚 I'm an Informatics student at President University, specializing in Artificial Intelligence. <br>
-🔭 I’m currently working on artificial intelligence, web development, database. <br>
-👯 I’m looking to collaborate on artificial intelligence, web development, database projects. <br>
+🔭 I’m currently working on artificial intelligence, web development, and app development. <br>
+👯 I’m looking to collaborate on artificial intelligence, web development, and app development projects. <br>
 🤝 I’m looking for help with enhancing AI models, real-time chatbot development, and deep learning optimizations. <br>
-🌱 I’m currently learning LLMs, Deep Learning, and AI-powered Web Applications.
+🌱 I’m currently learning Cloud Computing and AI-powered Web and App Applications.
 
 
 ## 🌐 Socials:
