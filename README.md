@@ -1,7 +1,7 @@
 ## Hi, I am Irene 💡
 # 💫 About Me:
 📚 I'm an Informatics student at President University, concentrating in Artificial Intelligence. <br>
-🔭 I’m currently working on artificial intelligence, web development, and app development. <br>
+🔭 I’m currently working on web / app development and artificial intelligence. <br>
 👯 I’m looking to collaborate on artificial intelligence, web development, and app development projects. <br>
 🌱 I'm eager to learn about app development and API integration right now.
 
