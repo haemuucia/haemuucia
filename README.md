@@ -3,7 +3,6 @@
 📚 I'm an Informatics student at President University, concentrating in Artificial Intelligence. <br>
 🔭 I’m currently working on web / app development and artificial intelligence. <br>
 👯 I’m looking to collaborate on artificial intelligence, web development, and app development projects. <br>
-🌱 I'm eager to learn about app development and API integration right now.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/verrrene) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/veronicairene) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veronicairene315@gmail.com) 
