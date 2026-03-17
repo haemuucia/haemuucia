@@ -1,4 +1,4 @@
-## Hi, I am Irene 💡
+## Hi, I am Irene 🧸
 # 💫 About Me:
 📚 I'm an Informatics student at President University, concentrating in Artificial Intelligence. <br>
 🔭 I’m currently working on web / app development and artificial intelligence. <br>
